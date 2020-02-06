@@ -9,7 +9,6 @@ public class Exercises {
 		}
 
 		// write your code here
-//ssda
 		int lastIndexA = a.size();
 		int lastIndexB = b.size();
 
@@ -57,7 +56,6 @@ public class Exercises {
 
 	public int difference(ArrayList<Integer> numbers) {
 		// write your code here
-
 		if (numbers == null || numbers.size() < 1) {
 			return -1;
 		}
@@ -84,7 +82,6 @@ public class Exercises {
 
 	public double biggest(ArrayList<Double> numbers) {
 		// write your code here
-
 		if (numbers == null || numbers.size() < 3 || numbers.size() % 2 == 0) {
 			return -1;
 		}
@@ -155,7 +152,6 @@ public class Exercises {
 
 	public boolean increasing(ArrayList<Integer> numbers) {
 		// write your code here
-
 		if (numbers == null || numbers.size() < 3) {
 			return false;
 		}
@@ -186,7 +182,6 @@ public class Exercises {
 
 	public boolean everywhere(ArrayList<Integer> numbers, int x) {
 		// write your code here
-
 		if (numbers == null || numbers.size() < 1) {
 			return false;
 		}
@@ -221,7 +216,6 @@ public class Exercises {
 
 	public boolean consecutive(ArrayList<Integer> numbers) {
 		// write your code here
-
 		if (numbers == null || numbers.size() < 3) {
 			return false;
 		}
@@ -241,7 +235,6 @@ public class Exercises {
 
 	public boolean balance(ArrayList<Integer> numbers) {
 		// write your code here
-
 		if (numbers == null || numbers.size() < 2) {
 			return false;
 		}
@@ -268,7 +261,6 @@ public class Exercises {
 
 	public int clumps(ArrayList<String> values) {
 		// write your code here
-
 		if (values == null) {
 			return -1;
 		}
