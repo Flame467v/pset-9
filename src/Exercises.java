@@ -9,7 +9,7 @@ public class Exercises {
 		}
 
 		// write your code here
-//ssdassdifhgu
+//ssda
 		int lastIndexA = a.size();
 		int lastIndexB = b.size();
 
